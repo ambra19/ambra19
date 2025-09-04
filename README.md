@@ -55,7 +55,7 @@ background:
   ]
   
 currently_learning: ["LangChain, React, and DevOps"]
-2025-2025 Goals: ["Build cool projects with cool people", "Do leetcode and get a job lol"]
+goals: ["Build cool projects with cool people", "Do leetcode and get a job lol"]
 hobbies: ["Running", "Video editing", "Vintage watches"]
 ```
   
@@ -65,6 +65,7 @@ hobbies: ["Running", "Video editing", "Vintage watches"]
 <p align="left">
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" alt="langgraph" width="45" height="45"/>   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg](https://www.vhv.rs/dpng/d/609-6093398_prog-flask-flask-python-icon-png-transparent-png.png)" alt="flask" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
@@ -77,15 +78,13 @@ hobbies: ["Running", "Video editing", "Vintage watches"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://lancedb.github.io/lancedb/assets/logo.png" alt="lancedb" width="45" height="45"/>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg](https://raw.githubusercontent.com/deepset-ai/haystack-integrations/main/logos/docling.png)" alt="docling" width="45" height="45"/>
 
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45" /> -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" /> -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" /> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="45" height="45"/> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/> -->
+
+
+
+
 
 </p>
 
