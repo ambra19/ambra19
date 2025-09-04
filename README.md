@@ -18,6 +18,8 @@
 </a>
 </p>
 
+---
+
 <div align="center">
 
 ## Here is a delightful GIF  
@@ -25,7 +27,39 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJpODZwZWNheHYzOTRwcHM3ajh5bWpxenpwM2VhM3NsdWVwMG83diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" width="600"/>
 
 </div>
+
+---
+
+<h2> 👩🏻‍💻 &nbsp;A Little Bit About Me</h2>
+
+```yaml
+name: Ambra 
+located_in: Amsterdam, NL
+current_job: Student and Developer
+education:
+  [
+    "Master's in Software Engineering",
+    "Bachelor's in Computer Science",
+  ]
+
+fields_of_interests:
+  [
+    "Full-stack",
+    "AI Agents",
+    "Machine Learning",
+  ]
+background:
+  [
+    "Deal flow fellow @ vc"
+    "SWE Intern @ tech startup"
+  ]
   
+currently_learning: ["LangChain, React, and DevOps"]
+2025-2025 Goals: ["Build cool projects with cool people", "Do leetcode and get a job lol"]
+hobbies: ["Running", "Video editing", "Vintage watches"]
+```
+  
+---  
 
 
 
