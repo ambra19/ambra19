@@ -80,12 +80,6 @@ hobbies: ["Running", "Video editing", "Vintage watches"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://lancedb.github.io/lancedb/assets/logo.png" alt="lancedb" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/deepset-ai/haystack-integrations/main/logos/docling.png" alt="docling" width="45" height="45"/>
-
-
-
-
-
-
 </p>
 
 
