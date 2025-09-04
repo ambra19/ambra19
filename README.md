@@ -65,7 +65,7 @@ hobbies: ["Running", "Video editing", "Vintage watches"]
 <p align="left">
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" alt="langgraph" width="45" height="45"/>   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg](https://www.vhv.rs/dpng/d/609-6093398_prog-flask-flask-python-icon-png-transparent-png.png)" alt="flask" width="45" height="45"/>
+  <img src="https://www.vhv.rs/dpng/d/609-6093398_prog-flask-flask-python-icon-png-transparent-png.png" alt="flask" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
@@ -79,7 +79,7 @@ hobbies: ["Running", "Video editing", "Vintage watches"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://lancedb.github.io/lancedb/assets/logo.png" alt="lancedb" width="45" height="45"/>
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg](https://raw.githubusercontent.com/deepset-ai/haystack-integrations/main/logos/docling.png)" alt="docling" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/deepset-ai/haystack-integrations/main/logos/docling.png" alt="docling" width="45" height="45"/>
 
 
 
