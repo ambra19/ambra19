@@ -20,7 +20,7 @@
 
 ## Here is a delightful GIF 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJpODZwZWNheHYzOTRwcHM3ajh5bWpxenpwM2VhM3NsdWVwMG83diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif", width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJpODZwZWNheHYzOTRwcHM3ajh5bWpxenpwM2VhM3NsdWVwMG83diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif", width="800">
 </p>
   
 
