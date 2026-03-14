@@ -1,9 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome!🚀&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
-
-<p align="center">
 <a href="https://ambra-portfolio.onrender.com/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
