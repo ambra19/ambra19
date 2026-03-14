@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?text=Welcome!🚀&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<h1 align="center">
-  Let's Connect and have a chat! :)
-</h1>
 
 <p align="center">
 <a href="https://ambra-portfolio.onrender.com/">
@@ -50,10 +47,6 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJpODZwZWNheHYzOTRwcHM3ajh5bWpxenpwM2VhM3NsdWVwMG83diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" width="600"/>
 
 </div>
-```
-currently_learning: ["LangChain, and DevOps"]
-```
----  
 
 
 
