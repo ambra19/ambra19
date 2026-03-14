@@ -51,37 +51,8 @@
 
 </div>
 
----
+currently_learning: ["LangChain, and DevOps"]
 
-<h2> 👩🏻‍💻 &nbsp;A Little Bit About Me</h2>
-
-```yaml
-name: Ambra 
-located_in: Amsterdam, NL
-current_job: Student and Developer
-education:
-  [
-    "Master's in Software Engineering",
-    "Bachelor's in Computer Science",
-  ]
-
-fields_of_interests:
-  [
-    "Full-stack",
-    "AI Agents",
-    "Machine Learning",
-  ]
-background:
-  [
-    "Deal flow fellow @ vc"
-    "SWE Intern @ tech startup"
-  ]
-  
-currently_learning: ["LangChain, React, and DevOps"]
-goals: ["Build cool projects with cool people", "Do leetcode and get a job lol"]
-hobbies: ["Running", "Video editing", "Vintage watches"]
-```
-  
 ---  
 
 
